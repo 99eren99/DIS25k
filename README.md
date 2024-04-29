@@ -12,7 +12,7 @@ Official repository of "Deep Image Composition Meets Image Forgery"
 
 <div align="center">
 
-  <a href="">[![arXiv](https://img.shields.io/badge/arXiv-2404.02897-b31b1b.svg)](https://arxiv.org/abs/2404.02897)</a>
+  <a href="">[![arXiv](https://img.shields.io/badge/arXiv-2404.02897-b31b1b.svg)](https://arxiv.org/abs/2404.02897v2)</a>
 
 </div>
 
