@@ -21,6 +21,8 @@ Official repository of "Deep Image Composition Meets Image Forgery"
 
 * To download dataset [![Kaggle](https://a11ybadges.com/badge?logo=kaggle)](https://www.kaggle.com/datasets/erentahir/dis25k)
 
+* :point_right: To download DIS100k [![Kaggle](https://a11ybadges.com/badge?logo=kaggle)](https://www.kaggle.com/datasets/erentahir/dis100k)
+
 * Comparison of some cherry picked OPA images and their equivalents in the DIS25k[(for more)](https://github.com/99eren99/DIS25k/tree/main/someExamples):
 <br /><br />
 ![img](https://raw.githubusercontent.com/99eren99/DIS25k/main/table.jpg)
